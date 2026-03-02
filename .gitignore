@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# IDE files
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+*.idea/
+.vscode/
+*.swp
+*.swo
